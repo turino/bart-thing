@@ -1,0 +1,20 @@
+{
+  "destinationColors": {
+    "24TH": "PURPLE",
+    "DALY": "BLUE",
+    "DUBL": "BLUE",
+    "MLBR": "RED",
+    "NCON": "PURPLE",
+    "PITT": "YELLOW",
+    "RICH": "RED",
+    "SFIA": "YELLOW",
+    "WARM": "GREEN"
+  },
+  "hexcodes": {
+    "BLUE":   "#000033",
+    "GREEN":  "#003300",
+    "PURPLE": "#220033",
+    "RED":    "#330000",
+    "YELLOW": "#333300"
+  }
+}
